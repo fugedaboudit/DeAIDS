@@ -277,7 +277,8 @@ exit /b
 :Main
 set "inputCMD="
 cls
-color 09
+title DeAIDS
+color 1f
 echo.
 goto ShowLogo
 
